@@ -108,7 +108,7 @@ for ( var i = 0; i < length; i++) {
   generate = generate + generateIndex[paraIndex];
 }
 
-alert('Your password has been generated.  Copy your new password, then refresh your browser to generate a new password.');
+alert('Your password has been generated.  Copy your password, then refresh your browser to generate a new password.');
 
 return generate;
 
