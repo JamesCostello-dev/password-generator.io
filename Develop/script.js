@@ -39,7 +39,7 @@ if (promptLowerCase === 'yes') {
 } else if (promptLowerCase === 'no') {
   promptLowerCase = false;
 } else {
-  alert('Error!  Please choose a valid entry, yes or no.')
+  alert('Error!  Please choose a valid entry, yes or no.');
   return '';
 }
 
@@ -49,7 +49,7 @@ if (promptUpperCase === 'yes') {
 } else if (promptUpperCase === 'no') {
   promptUpperCase = false;
 } else {
-  alert('Error!  Please choose a valid entry, yes or no.')
+  alert('Error!  Please choose a valid entry, yes or no.');
   return '';
 }
 
@@ -59,7 +59,7 @@ if (promptNumbers === 'yes') {
 } else if (promptNumbers === 'no') {
   promptNumbers = false;
 } else {
-  alert('Error!  Please choose a valid entry, yes or no.')
+  alert('Error!  Please choose a valid entry, yes or no.');
   return '';
 }
 
@@ -69,7 +69,7 @@ if (promptSymbols === 'yes') {
 } else if (promptSymbols === 'no') {
   promptSymbols = false;
 } else {
-  alert('Error!  Please choose a valid entry, yes or no.')
+  alert('Error!  Please choose a valid entry, yes or no.');
   return '';
 }
 
